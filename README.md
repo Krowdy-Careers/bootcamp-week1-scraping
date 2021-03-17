@@ -3,26 +3,26 @@
 
 - Extraer informacion personal
 
--- Nombre
+-- Nombre - OK
 
--- Puesto
+-- Puesto - OK
 
--- Ubicacion
+-- Ubicacion - OK
 
--- AboutMe
+-- AboutMe  -OK
 
-- Extraer informacion de educacion
+- Extraer informacion de educacion -OK
 
--- Nivel de estudios
+-- Nivel de estudios - OK
 
--- Centro de educacion
-
--- Periodo
+-- Centro de educacion - OK
+ 
+-- Periodo -OK
 
 - Extraer informacion de experiencias laborales
 
--- Empresa
+-- Empresa - OK
 
--- Periodo
-
--- Funciones
+-- Periodo - OK
+ 
+-- Funciones -OK
